@@ -40,10 +40,10 @@ layout:
 
 ## 影视导航站
 
-|  [影猫的仓库](https://ymck.me/)  |                                                           |
-| :-------------------------: | :-------------------------------------------------------: |
-| [影视森林](https://www.549.tv/) |               [土拨鼠](https://www.tbsdy.com/)               |
-|  [安逸影视导航](https://anee.cc/) | [全网资源大全](https://yl158.wss.cc/article/detail/a0eenyliikj) |
+|                 [影猫的仓库](https://ymck.me/)                 |   [安逸影视导航](https://anee.cc/)  |
+| :-------------------------------------------------------: | :---------------------------: |
+|                [影视森林](https://www.549.tv/)                | [土拨鼠](https://www.tbsdy.com/) |
+| [全网资源大全](https://yl158.wss.cc/article/detail/a0eenyliikj) |                               |
 
 ## 可下载影视站
 
@@ -54,8 +54,4 @@ layout:
 ## M3U8
 
 1. [M3U8汇总 - 软件，播放源等等](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)
-2. [APTV - IOS客户端的M3U播放器](https://apps.apple.com/cn/app/aptv/id1630403500) - [TG频道交流](https://t.me/AptvPlayer)
-3. 肥羊IPTV 4K 8K 直播源 [官方GitHub](https://github.com/youshandefeiyang/IPTV) [官方网站](https://zb.v1.mk/)
-4. [IPTV直播员GitHub](https://github.com/fanmingming/live)
-5. [owenTv - 公益维护的m3u电视直播源](https://owen2000wy.github.io/)
-6. [M3U8在线播放器](https://m3u8-player.com/)
+2. [M3U8在线播放器](https://m3u8-player.com/)

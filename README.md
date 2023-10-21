@@ -1,4 +1,18 @@
-# 首页导航
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 🏨 首页导航
 
 ### 有趣小站
 

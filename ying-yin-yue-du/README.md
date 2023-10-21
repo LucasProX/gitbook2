@@ -1,4 +1,18 @@
-# 影音阅读
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 📺 影音阅读
 
 #### 本章节内容有：
 

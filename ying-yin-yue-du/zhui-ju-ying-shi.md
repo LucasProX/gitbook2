@@ -1,22 +1,36 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 追剧影视
 
 ## 多平台通用
 
 **注意**：前面有🍎的是近期检测支持IOS的！
 
-| **入口**                          | **支持平台**                            | **入口**                                         | **支持平台**     |
-| ------------------------------- | ----------------------------------- | ---------------------------------------------- | ------------ |
-| [555影视](https://555kan.net/)    | iOS，安卓                              | [YQK影视](https://yqk10.app/)                    | 安卓，IOS，电视    |
-| [图图影视](https://tt58.tv/)        | 网页，安卓，iOS，TV                        | [追剧达人](https://zjdr.cf/)                       | iOS，安卓       |
-| [黑豹影视](http://heib.cc/)         | iOS，安卓                              | [小猫咪](https://xmaomi.top/)                     | 网页           |
-| [大师兄影视](https://dsxys.pro/app/) | IOS，安卓，TV                           | 🤖[贝贝](https://aming.lanzouf.com/iVrKe0ug0e6h) | 安卓群友推荐       |
-| [刚刚影视](https://yingyingtv.cn)   | 网页搜索引擎                              | [小鸭看看](https://xiaoyakankan.com/)              | 网页           |
-| [天空影视](http://www.tkznp1.com/)  | [IOS，安卓，网页，TV](https://tkznp9.com/) | [壳儿影视](https://keer.app/)                      | IOS，安卓       |
-| [泡泡视频](https://www.ppsp.pro)    | IOS，安卓，Tv                           | [恐怖世界](https://www.840f.com/)                  | 恐怖电影更新网站     |
-| [老韩综](http://app.hanjulao.com/) | iOS，安卓，网页                           | [太空教练](https://www.tkapp.vip)                  | iOS，安卓       |
-| [乐看视频](https://lekan.app/)      | IOS，安卓                              | [影视工厂](https://www.ysgcapp.com/)               | 网页，IOS，安卓，TV |
-| [热播库](https://www.reboku.com/)  | 网页                                  | [小柿子影视](https://xszys.com/)                    | IOS，安卓       |
-| [佩奇影视](http://peiqi.tv/)        | 安卓，iOS                              | [萌妹影视](https://www.dmmd.tv/)                   | 安卓，IOS       |
+|              **入口**             |               **支持平台**              |                     **入口**                     |   **支持平台**   |
+| :-----------------------------: | :---------------------------------: | :--------------------------------------------: | :----------: |
+|   [555影视](https://555kan.net/)  |                iOS，安卓               |           [YQK影视](https://yqk10.app/)          |   安卓，IOS，电视  |
+|     [图图影视](https://tt58.tv/)    |             网页，安卓，iOS，TV            |            [追剧达人](https://zjdr.cf/)            |    iOS，安卓    |
+|     [黑豹影视](http://heib.cc/)     |                iOS，安卓               |           [小猫咪](https://xmaomi.top/)           |      网页      |
+| [大师兄影视](https://dsxys.pro/app/) |              IOS，安卓，TV              | 🤖[贝贝](https://aming.lanzouf.com/iVrKe0ug0e6h) |      安卓      |
+|  [刚刚影视](https://yingyingtv.cn)  |                网页搜索引擎               |        [小鸭看看](https://xiaoyakankan.com/)       |      网页      |
+|  [天空影视](http://www.tkznp1.com/) | [IOS，安卓，网页，TV](https://tkznp9.com/) |            [壳儿影视](https://keer.app/)           |    IOS，安卓    |
+|   [泡泡视频](https://www.ppsp.pro)  |              IOS，安卓，Tv              |          [恐怖世界](https://www.840f.com/)         |   恐怖电影更新网站   |
+| [老韩综](http://app.hanjulao.com/) |              iOS，安卓，网页              |          [太空教练](https://www.tkapp.vip)         |    iOS，安卓    |
+|    [乐看视频](https://lekan.app/)   |                IOS，安卓               |        [影视工厂](https://www.ysgcapp.com/)        | 网页，IOS，安卓，TV |
+|  [热播库](https://www.reboku.com/) |                  网页                 |           [小柿子影视](https://xszys.com/)          |    IOS，安卓    |
+|     [佩奇影视](http://peiqi.tv/)    |                安卓，iOS               |          [萌妹影视](https://www.dmmd.tv/)          |    安卓，IOS    |
 
 ## iOS专用
 

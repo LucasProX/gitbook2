@@ -6,3 +6,6 @@
   * [音乐](ying-yin-yue-du/yin-le.md)
   * [阅读-听书-漫画-动漫](ying-yin-yue-du/yue-du-ting-shu-man-hua-dong-man.md)
   * [体育直播](ying-yin-yue-du/ti-yu-zhi-bo.md)
+* [📙 Docs](docs.md)
+* [⬆ 更新说明](geng-xin-shuo-ming.md)
+* [🤖 ChatGPT-4](chatgpt-4.md)

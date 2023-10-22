@@ -55,12 +55,6 @@ AI时代随着GPT的普及，已经到来！
 
 [https://chilloutai.com](https://chilloutai.com/)
 
-自动生成 ai 拟人化图片
-
-[https://askaiw.com/art](https://askaiw.com/art)&#x20;
-
-[https://rightbrain.art/text2Image](https://rightbrain.art/text2Image)
-
 哔哩哔哩 BiliGPT，一键总结 b 站视频内容。
 
 [https://b.jimmylv.cn](https://b.jimmylv.cn/)
